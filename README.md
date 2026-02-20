@@ -56,8 +56,8 @@
 
 ## 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ds92ko&layout=compact&langs_count=10&theme=dracula&hide_border=true)
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ds92ko&layout=compact&langs_count=10&theme=dracula&hide_border=true)
+![Top Langs](https://ds92ko-readme-stats.vercel.app/api/top-langs?username=ds92ko&layout=compact&langs_count=10&theme=dracula&hide_border=true)
+![WakaTime stats](https://ds92ko-readme-stats.vercel.app/api/wakatime?username=ds92ko&layout=compact&langs_count=10&theme=dracula&hide_border=true)
 
 <br />
 
