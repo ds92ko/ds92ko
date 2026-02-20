@@ -42,6 +42,13 @@
 
 <br />
 
+## 📊 Stats
+
+![Top Langs](https://ds92ko-readme-stats.vercel.app/api/top-langs?username=ds92ko&layout=compact&langs_count=10&theme=dracula&hide_border=true)
+![WakaTime stats](https://ds92ko-readme-stats.vercel.app/api/wakatime?username=ds92ko&layout=compact&langs_count=10&theme=dracula&hide_border=true)
+
+<br />
+
 ## 🌟 Contributions
 
 ![Git Animals](https://render.gitanimals.org/farms/ds92ko)
@@ -54,10 +61,11 @@
 
 <br />
 
-## 📊 Stats
+## 📝 Blog
 
-![Top Langs](https://ds92ko-readme-stats.vercel.app/api/top-langs?username=ds92ko&layout=compact&langs_count=10&theme=dracula&hide_border=true)
-![WakaTime stats](https://ds92ko-readme-stats.vercel.app/api/wakatime?username=ds92ko&layout=compact&langs_count=10&theme=dracula&hide_border=true)
+<a href="https://velog.io/@ds92ko">
+  <img height="240px" src="https://velog-github-badge.vercel.app/badge/ds92ko?theme=dark&posts=3"/>
+</a>
 
 <br />
 
