@@ -51,6 +51,8 @@
 
 ## 🌟 Contributions
 
+![Gitty](https://gitty-widget.vercel.app/api/widget?username=ds92ko)
+
 ![Git Animals](https://render.gitanimals.org/farms/ds92ko)
 
 <picture>
